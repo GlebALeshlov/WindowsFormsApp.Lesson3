@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D4B3E5BF-8DD4-48D0-9650-D78DAD7AEE8D}</ProjectGuid>
+    <ProjectGuid>{1410EA85-1659-405D-B59D-8DC8580ABA48}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Homework</RootNamespace>
-    <AssemblyName>Homework</AssemblyName>
+    <RootNamespace>CalculatorApp</RootNamespace>
+    <AssemblyName>CalculatorApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

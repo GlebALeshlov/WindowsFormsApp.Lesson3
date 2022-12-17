@@ -1,0 +1,11 @@
+C:\Users\dimad\source\repos\WindowsFormsApp.Lesson3\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\dimad\source\repos\WindowsFormsApp.Lesson3\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\dimad\source\repos\WindowsFormsApp.Lesson3\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\dimad\source\repos\WindowsFormsApp.Lesson3\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\dimad\source\repos\WindowsFormsApp.Lesson3\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimad\source\repos\WindowsFormsApp.Lesson3\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\dimad\source\repos\WindowsFormsApp.Lesson3\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\dimad\source\repos\WindowsFormsApp.Lesson3\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\dimad\source\repos\WindowsFormsApp.Lesson3\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\dimad\source\repos\WindowsFormsApp.Lesson3\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\dimad\source\repos\WindowsFormsApp.Lesson3\CalculatorApp\obj\Debug\CalculatorApp.pdb
